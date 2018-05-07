@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">ShakerLight</string>
-    <string name="lightOff">Light Off</string>
-    <string name="lightOn">Light On</string>
+    <string name="lightbulb">Lightbulb</string>
 </resources>
